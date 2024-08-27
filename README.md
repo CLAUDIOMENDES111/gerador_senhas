@@ -1,4 +1,8 @@
 # gerador_senhas
 PROJETO PARA O DESTRAVADEV - DEVAPRENDER.
 
-# Tkinter
+# INTERFACE GRÁFICA PARA GERAR SENHAS 
+
+
+
+
